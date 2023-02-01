@@ -1,0 +1,7 @@
+In a hotel management system a guest can rent rooms. Hotel receptionist uses
+the system to assist in renting. A guest can also book a room for future
+renting, with the help of the receptionist but he(R) has to check if the room
+has prior booking or not. A guest pays for the rooms at the time they checked
+out. He can pay by cash, check or credit card. Receptionist has to login to the
+system before they can use it. But to login he has to go through username and 
+password verification. 
